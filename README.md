@@ -1,4 +1,5 @@
-![Loyola Logo](https://github.com/atapiaco/3DMHPP_GA/blob/master/files/loyola.png)
+![LOYOLA](https://github.com/atapiaco/3DMHPP_GA/blob/main/loyola.png)
 
-# Integer programming to optimize Micro-Hydro Power Plants for generic river profiles
----
+# A genetic algorithm to optimize penstocks for micro-hydro powerplants
+
+A Micro Hydro-Power Plant (MHPP) is a suitable and effective mean to provide electric power to rural remote communities without harming the environment. However, the lack of resources and technical training in these communities frequently leads to designs based of rules of thumb, compromising both the generation capacity and efficiency. This work makes an attempt to address this problem developing a new tool to design the layout of MHPP. The tool relies on a discrete topographic survey of the terrain and makes use of a Genetic Algorithm (GA) to optimize the installation layout, making it possible to explicitly incorporate needs and constraints such as power supply requirement, cost of the installation, available water flow, and layout feasibility in accordance with the real terrain profile. The algorithm is applied to a real scenario in a remote community in Honduras, demonstrating its capability to optimize these kind of installations.
