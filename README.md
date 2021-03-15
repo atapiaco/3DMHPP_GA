@@ -1,4 +1,4 @@
-![LOYOLA](https://github.com/atapiaco/3DMHPP_GA/blob/main/loyola.png)
+![LOYOLA](http://sevilla.2019-2022.org/wp-content/uploads/2017/03/1c931b6.png)
 
 # A genetic algorithm to optimize penstocks for micro-hydro powerplants
 
